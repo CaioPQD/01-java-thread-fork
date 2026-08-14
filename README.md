@@ -1,11 +1,14 @@
 # 01-java-thread
 
 ## Compilação:
+```bash
 javac *.java
+```
 
 ## Execução:
+```bash
 java Main
-
+```
 
 # Exercícios:
 
